@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Start Github Blog !
+title: 'Start Github Blog !'
 date: 2021-05-01 17:44:20 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: software.jpg # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [start]
 ---
 
 #### 깃헙 블로그를 만들고 제대로 쓰는 첫 글 !
