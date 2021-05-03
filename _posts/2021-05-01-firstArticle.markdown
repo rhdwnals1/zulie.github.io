@@ -6,13 +6,6 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: software.jpg # Add image post (optional)
 ---
 
-# <<<<<<< HEAD
-
-<!--
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. -->
-
-> > > > > > > 2e867207c16aa900e007e4d92882c223fe607778
-
 #### 깃헙 블로그를 만들고 제대로 쓰는 첫 글 !
 
 나는 코딩을 시작하고부터 개발에 대해 블로그를 써왔다. 위코드라는 부트캠프를 다니면서 개발을 시작하게 되었고 위코드는 velog라는 블로그를 애용해서 거기에 써왔었다.
@@ -29,7 +22,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 하지만 알고나면 그걸 써먹는게 너무 재밌었고 백지에서 무언가를 만들어내고 코드로 예쁘게 만들 수 있다는 희열감에 취했었다..
 난 천상 프론트엔드 ...?
 
-![image](/assets/img/wecode.jpg)
+![image]<center><img width="400px" height="300px">(/assets/img/wecode.jpg)</img></center>
 
 그래도 위코드를 다니면서 좋은 사람들도 많이 얻었고 개발에 매력적으로 다가갈 수 있어서 정말 거름같은 시간이었다.
 몇 명씩 팀으로 나눠서 이름을 짓는것부터 남아서 자기할당부분을 만들면서 백엔드와 붙혀보는거랑 제발 되라되라 하면서 애탔던 시간도 다 나에게 웃음이 지어질 정도로 행복한 시간이었다.
