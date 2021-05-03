@@ -6,6 +6,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: software.jpg # Add image post (optional)
 ---
 
+<!--
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. -->
+
 #### 깃헙 블로그를 만들고 제대로 쓰는 첫 글 !
 
 나는 코딩을 시작하고부터 개발에 대해 블로그를 써왔다. 위코드라는 부트캠프를 다니면서 개발을 시작하게 되었고 위코드는 velog라는 블로그를 애용해서 거기에 써왔었다.
